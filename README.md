@@ -32,6 +32,7 @@ http://localhost:8080/userdata?city=Ahmedabad&bpLevel=140&sugarLevel=100
 
 
 Below are the Screenshots of response in json format.
+![Screenshot (78)](https://github.com/adnansparekh/Kratin-Software-Assignmentnt/assets/137645202/0358ac96-fb80-4472-be3f-c06142321061)
 
 
 
